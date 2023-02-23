@@ -1,1 +1,2 @@
 Hello World!
+This Repo was setup to test a few git features and provide demonstration.
